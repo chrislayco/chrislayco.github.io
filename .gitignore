@@ -1,2 +1,5 @@
-
-index_old.md
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

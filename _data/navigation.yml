@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "about me"
+    url: /about-me/
+  - title: "projects"
+    url: /projects/
+  - title: "test"
+    url: /test/
+  # - title: "Sitemap"
+  #   url: /sitemap/

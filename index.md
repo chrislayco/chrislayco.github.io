@@ -1,17 +1,41 @@
 ---
-layout: default
+layout: splash
+
+gallery:
+  - url: 
+    image_path: /assets/images/boids_thumbnail.png
+    alt: "placeholder image 1"
+    title: "placeholder 1 caption"
+
+  - url: 
+    image_path: http://via.placeholder.com/640x360
+    alt: "placeholder image 2"
+    title: "placeholder 2 caption"
+
+  - url: 
+    image_path: http://via.placeholder.com/640x360
+    alt: "placeholder image 3"
+    title: "placeholder 3 caption"
+
+  - url: 
+    image_path: http://via.placeholder.com/640x360
+    alt: "placeholder image 4"
+    title: "placeholder 4 caption"
+
+excerpt: "welcome"
+header:
+  overlay_image: /assets/images/boids_thumbnail.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  actions:
+    - label: "see my latest"
+      url: 
+    - label: "contact me"
+      url: 
 ---
 
-# About Me
+# summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{% include gallery %}
 
-# Projects
 
-## art_boids
 
-![art_boids](https://guides.github.com/activities/hello-world/branching.png)
-
-art_boids is a ___
-
-Check out the project [here](./art_boids.html).
