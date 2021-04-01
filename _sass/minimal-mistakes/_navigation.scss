@@ -177,7 +177,9 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  // background: $background-color;
+  background: $masthead-background-color;
+
 
   a {
     display: block;
@@ -242,8 +244,9 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: $primary-color;
+        height: 2px;
+        // background: $primary-color;
+        background: $masthead-link-underline;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

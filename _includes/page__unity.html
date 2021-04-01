@@ -1,0 +1,14 @@
+<script src="/assets/unity/{{page.unity_dir}}/TemplateData/UnityProgress.js"></script>
+<script src="/assets/unity/{{page.unity_dir}}/Build/UnityLoader.js"></script>
+
+<script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/unity/{{page.unity_dir}}/Build/webuild.json",{onProgress: UnityProgress});  
+</script>
+<div class="webgl-content">
+  <div id="gameContainer" style="width: 640px; height: 360px"></div>
+  <div class="footer">
+    <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)">click here to go fullscreen</div>
+    <!-- <div class="title"></div> -->
+  </div>
+</div>
+

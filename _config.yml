@@ -40,6 +40,64 @@ sass:
   sass_dir: _sass 
   style: compressed
 
+search: true
+
+include:
+  - _pages
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+# Site Author
+author:
+  name             : "christoffer layco"
+  avatar           : "http://via.placeholder.com/100x100"
+  bio              : "my bio"
+  location         : "San Jose, CA"
+  employer         :
+  pubmed           : 
+  googlescholar    :
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "chrislayco"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+defaults:
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      read_time: true
+      share: true
+      related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
