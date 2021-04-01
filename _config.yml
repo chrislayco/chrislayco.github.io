@@ -53,13 +53,13 @@ collections:
 # Site Author
 author:
   name             : "christoffer layco"
-  avatar           : "http://via.placeholder.com/100x100"
+  avatar           : "/assets/images/pfp.jpg"
   bio              : "my bio"
   location         : "San Jose, CA"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            :
+  email            : christoffer.layco@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -74,7 +74,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "christoffer-layco-54248b13b/"
   orcid            : 
   pinterest        :
   soundcloud       :
