@@ -16,15 +16,15 @@
   </div>
   <script>
     var buildUrl = "/assets/unity/{{page.unity_dir}}/Build";
-    var loaderUrl = buildUrl + "/art-boids-006.loader.js";
+    var loaderUrl = buildUrl + "/{{page.unity_dir}}.loader.js";
     var config = {
-      dataUrl: buildUrl + "/art-boids-006.data",
-      frameworkUrl: buildUrl + "/art-boids-006.framework.js",
-      codeUrl: buildUrl + "/art-boids-006.wasm",
+      dataUrl: buildUrl + "/{{page.unity_dir}}.data",
+      frameworkUrl: buildUrl + "/{{page.unity_dir}}.framework.js",
+      codeUrl: buildUrl + "/{{page.unity_dir}}.wasm",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "chris_layco",
       productName: "art_boids",
-      productVersion: "0.6",
+      productVersion: "0.7",
     };
 
     var container = document.querySelector("#unity-container");

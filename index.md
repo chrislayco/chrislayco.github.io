@@ -8,16 +8,16 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "latest work"
-      url: 
+      url: /projects/art_boids
     - label: "contact me"
       url: /contact/
 
 
 gallery:
-  - url: 
+  - url: /projects/art_boids
     image_path: /assets/images/boids_thumbnail.png
-    alt: "placeholder image 1"
-    title: "placeholder 1 caption"
+    alt: "art_boids"
+    title: "art_boids"
 
   - url: 
     image_path: http://via.placeholder.com/1920x1080
@@ -38,7 +38,7 @@ gallery:
 
 {% include gallery %}
 
-# more text
+
 
 
 
