@@ -1,11 +1,10 @@
 ---
 layout: single
-title: projects
+title: false
 permalink: /projects/
 author_profile: true
 ---
-
-this is where a more detailed list of all my projects will go
+## project list
 
 {% include base_path %}
 

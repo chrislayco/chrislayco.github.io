@@ -8,6 +8,16 @@
 
 $doc-font-size: 16 !default;
 
+/* theme color adjustments */
+$chrisp-accent: #00AACC;
+$chrisp-l: #818388;
+$chrisp-m: #595B5F;
+$chrisp-d: #28292A;
+$chrisp-x: #1E1E1F;
+
+$masthead-link-underline: #fff;  
+$masthead-background-color: $chrisp-x;
+
 /* highlight color */
 $highlight-fg: #fff;
 $highlight-bg: #8894AD;
@@ -65,14 +75,14 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: $chrisp-d;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 20%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
-$footer-background-color: $lighter-gray !default;
+$footer-background-color: $chrisp-x;
 
 
 
@@ -117,7 +127,7 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 20%) !default;
+$link-color: $chrisp-accent;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 //$masthead-link-color: $primary-color !default;
@@ -125,9 +135,7 @@ $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 // $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
-/* my changes */
-$masthead-link-underline: #fff;  
-$masthead-background-color: #1a1d24;
+
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
