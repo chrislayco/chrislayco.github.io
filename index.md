@@ -1,10 +1,10 @@
 ---
 layout: splash
 
-title: christoffer layco
+title: " "
 excerpt: "welcome to my portfolio, where i keep all my cool things"
 header:
-  overlay_image: /assets/images/boids_thumbnail.png
+  overlay_image: /assets/images/art_boids/banner.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "latest work"
@@ -15,17 +15,17 @@ header:
 
 gallery:
   - url: /projects/art_boids
-    image_path: /assets/images/boids_thumbnail.png
+    image_path: /assets/images/art_boids/thumbnail.png
     alt: "art_boids"
     title: "art_boids"
 
-  - url: 
-    image_path: http://via.placeholder.com/1920x1080
-    alt: "placeholder image 2"
-    title: "placeholder 2 caption"
+  - url: /projects/neptune
+    image_path: /assets/images/neptune/thumbnail.png
+    alt: "neptune"
+    title: "neptune"
 
   - url: 
-    image_path: http://via.placeholder.com/1920x1080
+    image_path: http://via.placeholder.com/800x800
     alt: "placeholder image 3"
     title: "placeholder 3 caption"
 
@@ -35,7 +35,8 @@ gallery:
   #   title: "placeholder 4 caption"
 ---
 
-
+## project gallery
+{: style="text-align: center;"}
 {% include gallery %}
 
 

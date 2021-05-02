@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "about me"
+  - title: "ABOUT ME"
     url: /about-me/
-  - title: "projects"
+  - title: "PROJECTS"
     url: /projects/
-  - title: "contact"
+  - title: "CONTACT"
     url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
