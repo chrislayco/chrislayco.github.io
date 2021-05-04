@@ -23,7 +23,7 @@ citation:
 
 art_boids is a casual creative system that utilizes craig reynolds' "boids" algorithm to define the movement for individual boid agents. each boid acts as a drawer on a canvas, that users can interact with and customize to create art.
 
-## implementation
+<!-- ## implementation -->
 
 ## demo
 

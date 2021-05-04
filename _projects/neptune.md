@@ -23,6 +23,6 @@ citation:
 
 the neptune rov includes an enhanced electronics suite and software control system for a tethered underwater robot, developed in santa clara university's robotics systems lab. the system supports thruster-based maneuvering of the vehicle, control over sensors and peripherals, display of camera imagery, and a graphical user interface for pilots.
 
-## implementation
+<!-- ## implementation -->
 
 ## demo
