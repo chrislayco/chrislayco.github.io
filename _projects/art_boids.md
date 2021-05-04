@@ -4,6 +4,10 @@ collection: projects
 permalink: /projects/art_boids
 excerpt: 'simulated flock artists'
 date: 2021-3-27
+tags:
+  - unity
+  - c#
+  - art
 
 header:
   overlay_image: /assets/images/boids_thumbnail.png

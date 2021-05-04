@@ -24,10 +24,10 @@ gallery:
     alt: "neptune"
     title: "neptune"
 
-  - url: 
-    image_path: http://via.placeholder.com/800x800
-    alt: "placeholder image 3"
-    title: "placeholder 3 caption"
+  - url: /projects/busy
+    image_path: /assets/images/busy/thumbnail.png
+    alt: "busy"
+    title: "busy"
 
   # - url: 
   #   image_path: http://via.placeholder.com/1920x1080 # or any 16:9 ratio
