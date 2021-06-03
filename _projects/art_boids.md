@@ -14,7 +14,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   teaser: /assets/images/boids_thumbnail.png
 
-unity_dir: art-boids-007
+unity_dir: art-boids-008
 
 
 citation: 
