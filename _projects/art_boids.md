@@ -3,7 +3,7 @@ title: "art_boids"
 collection: projects
 permalink: /projects/art_boids
 excerpt: 'simulated flock artists'
-date: 2021-3-27
+date: 2021-6-16
 tags:
   - unity
   - c#
@@ -20,8 +20,7 @@ unity_dir: art-boids-008
 citation: 
 ---
 
-
-art_boids is a casual creative system that utilizes craig reynolds' "boids" algorithm to define the movement for individual boid agents. each boid acts as a drawer on a canvas, that users can interact with and customize to create art.
+art boids is a co-creative system that allows users to make abstract art using  simulated movement of a flock of birds. Each agent, known as a "boid," acts as a drawer on a canvas that users can interact with and customize to create art. the movements of the boids is based on craig reynolds ``boids" algorithm, which causes each boid to move based on the position of nearly objects and other boids. 
 
 <!-- ## implementation -->
 
