@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: christoffer layco
+title: Christoffer Layco
 email: christoffer.layco@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
@@ -52,7 +52,7 @@ collections:
 
 # Site Author
 author:
-  name             : "christoffer layco"
+  name             : "Christoffer Layco"
   avatar           : "/assets/images/pfp.jpg"
   bio              : "my bio"
   location         : "San Jose, CA"

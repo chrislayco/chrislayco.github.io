@@ -1,9 +1,9 @@
 ---
-title: "busy"
+title: "test"
 collection: projects
-permalink: /projects/busy
-excerpt: 'a 3d animation about life'
-date: 2020-4-19
+permalink: /projects/test
+excerpt: 'test'
+date: 2025-3-1
 
 header:
   overlay_image: /assets/images/busy/banner.png

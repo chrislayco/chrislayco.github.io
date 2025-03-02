@@ -1,0 +1,8 @@
+
+<div class="{{ include.type | default: 'list' }}__container">
+    {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+    {% for post in sorted_projects %}
+        {% include detail-gallery-item.html post=post type=include.type %}
+    {% endfor %}
+</div>
+  
