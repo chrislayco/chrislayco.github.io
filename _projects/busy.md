@@ -1,8 +1,8 @@
 ---
-title: "busy"
+title: "Busy"
 collection: projects
 permalink: /projects/busy
-excerpt: 'a 3d animation about life'
+excerpt: 'Animation inspired by the chaos of a busy intersection.'
 date: 2020-4-19
 
 header:
@@ -23,5 +23,4 @@ citation:
 {% include video id="JUhFX3tkoVk" provider="youtube" %}
 
 ## about
-the inspiration for this animation comes from the business and chaos of a busy intersection. the goal is to create the feeling of uneasiness that is similar to the feeling when you have a lot to do, but are not sure what to do. all of the objects are given a simple look, but i use them to create a more complex composition. lights are a method i use to accentuate specific areas and set the tone. i also use the various attributes of the camera to create different effects. 
-the animation follows a driver and his journey around the intersection, exploring the weird atmosphere that all the different objects bring into the scene. 
+Created with Autodesk Maya, this animation is inspired by the hectic energy of a busy intersection, aiming to capture the feeling of being overwhelmed with tasks but unsure of where to start. By using simple objects in a complex composition, the animation conveys chaos and confusion. Strategic lighting highlights specific areas, setting a disorienting tone, while the camera’s angles and movements further intensify the unease. The animation follows a driver navigating the intersection, exploring the surreal environment shaped by the dynamic interplay of elements.

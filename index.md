@@ -3,7 +3,8 @@ layout: splash
 
 title: "Christoffer Layco"
 tagline: "Software Engineer"
-excerpt: "Lorem Ipsum sit amet dolor. Something something cool and epic. I make cool things yadda yadda blah blah blah"
+excerpt: "I'm a developer with a passion for building things. I’m always seeking new challenges to tackle and opportunities to learn and grow."
+# I approach every project with creativity and curiosity, driving me to push boundaries and continually improve."
 header:
   overlay_image: /assets/images/splash.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

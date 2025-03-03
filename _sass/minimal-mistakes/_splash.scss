@@ -190,6 +190,7 @@
         align-items: center; /* Horizontally center the content */
         text-align: center; /* Center text inside the h1 and p */
         height: 60vh; /* Ensure the wrapper takes up full viewport height */
+        gap: 0.25em;
       }
       
       .wrapper h1, .wrapper p {

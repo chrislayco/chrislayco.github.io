@@ -1,8 +1,8 @@
 ---
-title: "neptune"
+title: "Neptune ROV"
 collection: projects
 permalink: /projects/neptune
-excerpt: 'marine rov'
+excerpt: "Remote Operated Vehicle designed for real-time maneuvering and sample gathering in underwater environments."
 date: 2020-6-28
 
 header:
@@ -21,7 +21,9 @@ citation:
 ---
 
 
-the neptune rov includes an enhanced electronics suite and software control system for a tethered underwater robot, developed in santa clara university's robotics systems lab. the system supports thruster-based maneuvering of the vehicle, control over sensors and peripherals, display of camera imagery, and a graphical user interface for pilots.
+Neptune ROV is a Marine Remote Operated Vehicle developed at Santa Clara University's Robotics Systems Lab. It incorporates an enhanced electronics suite and an advanced software control system, enabling seamless thruster-based maneuvering, precise control over sensors and peripherals, and real-time display of underwater camera imagery. The system is designed for use in challenging aquatic environments, allowing operators to navigate, monitor, and collect data with ease.
+
+At the heart of the system is an intuitive graphical user interface (GUI) that allows pilots to control the robot's movements, monitor sensor data, and view live camera footage, all in a user-friendly environment. The Neptune ROV's robust design and sophisticated control systems make it an ideal tool for underwater exploration, research, and various remote sensing applications.
 
 <!-- ## implementation -->
 
