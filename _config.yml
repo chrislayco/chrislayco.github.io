@@ -53,9 +53,9 @@ collections:
 # Site Author
 author:
   name             : "Christoffer Layco"
-  avatar           : "/assets/images/pfp.jpg"
-  bio              : "my bio"
-  location         : "San Jose, CA"
+  avatar           : "/assets/images/pfp.png"
+  bio              : ""
+  location         : "Vallejo, CA"
   employer         :
   pubmed           : 
   googlescholar    :

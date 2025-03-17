@@ -13,11 +13,11 @@ author_profile: true
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/icons/linkedin-icon.png" width="50"/>
 <br/>
-<a href="https://www.linkedin.com/in/christoffer-layco-54248b13b/">linkedin</a>
+<a href="https://www.linkedin.com/in/christoffer-layco-54248b13b/">LinkedIn</a>
 {: style="text-align: center;"}
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/icons/github-icon.png" width="50"/>
 <br/>
-<a href="https://github.com/chrislayco">github</a>
+<a href="https://github.com/chrislayco">GitHub</a>
 {: style="text-align: center;"}
 
